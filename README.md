@@ -37,13 +37,13 @@ And finally, the final prediction model has been integrated into a web applicati
 ### 4.2 Web application Deployment
 
 <center>
-<img src="https://github.com/JhingleDiff/Prediction-of-used-car-prices-in-Morocco-using-machine-learning/blob/main/Imgs/meth_dev.png" alt="Methodology">
+<img src="https://github.com/JhingleDiff/Prediction-of-used-car-prices-in-Morocco-using-machine-learning/blob/main/GHImgs/meth_dev.png" alt="Methodology">
 </center>
 
 # Graphic interfaces of the web application
 
 <center>
-<img src="https://github.com/JhingleDiff/Prediction-of-used-car-prices-in-Morocco-using-machine-learning/blob/main/Imgs/Iterfaces.jpg" alt="Interfaces">
+<img src="https://github.com/JhingleDiff/Prediction-of-used-car-prices-in-Morocco-using-machine-learning/blob/main/GHImgs/Iterfaces.jpg" alt="Interfaces">
 </center>
 
 # The application available in Docker Hub under the following name:
