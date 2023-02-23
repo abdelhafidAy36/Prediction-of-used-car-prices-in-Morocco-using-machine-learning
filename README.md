@@ -13,22 +13,22 @@ And finally, the final prediction model has been integrated into a web applicati
 
 # Methodology
 
-# 1. Collection des données
+## 1. Collection des données
 
-# 2. Data preparation
-## 2.1 Data cleaning
-## 2.2 Exploratory data analysis (EDA)
-## 2.3 Splitting the data
-## 2.4 Encoding
-## 2.5 Feature Scaling
+## 2. Data preparation
+### 2.1 Data cleaning
+### 2.2 Exploratory data analysis (EDA)
+### 2.3 Splitting the data
+### 2.4 Encoding
+### 2.5 Feature Scaling
 
-# 3. Model development (using PyCaret)
-## 3.1 Model building
-## 3.2 Model Evaluation
-## 3.3 Model Optimization
-## 3.4 Model Interpretability
+## 3. Model development (using PyCaret)
+### 3.1 Model building
+### 3.2 Model Evaluation
+### 3.3 Model Optimization
+### 3.4 Model Interpretability
 
-# 4. Deploying the model (using Streamlit and Docker)
+## 4. Deploying the model (using Streamlit and Docker)
 
 
 # Web application description
