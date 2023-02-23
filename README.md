@@ -10,3 +10,29 @@ to build our model. Then we have experimented and evaluated many machine learnin
 <p align="justify">
 And finally, the final prediction model has been integrated into a web application for ease of use, so that public users and also entrepreneurs can use this model to make predictions on used cars, in addition to other services provided by the web application.
 </p>
+
+# Methodology
+
+# 1. Collection des données
+
+# 2. Data preparation
+## 2.1 Data cleaning
+## 2.2 Exploratory data analysis (EDA)
+## 2.3 Splitting the data
+## 2.4 Encoding
+## 2.5 Feature Scaling
+
+# 3. Model development (using PyCaret)
+## 3.1 Model building
+## 3.2 Model Evaluation
+## 3.3 Model Optimization
+## 3.4 Model Interpretability
+
+# 4. Deploying the model (using Streamlit and Docker)
+
+
+# Web application description
+
+
+
+# Graphic interfaces of the web application
