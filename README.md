@@ -11,9 +11,9 @@ to build our model. Then we have experimented and evaluated many machine learnin
 And finally, the final prediction model has been integrated into a web application for ease of use, so that public users and also entrepreneurs can use this model to make predictions on used cars, in addition to other services provided by the web application.
 </p>
 
-# Methodology
+# Methodology :
 
-## 1. Collection des données
+## 1. Data collection
 
 ## 2. Data preparation
 ### 2.1 Data cleaning
@@ -30,9 +30,6 @@ And finally, the final prediction model has been integrated into a web applicati
 
 ## 4. Deploying the model (using Streamlit and Docker)
 
-
 # Web application description
-
-
 
 # Graphic interfaces of the web application
