@@ -17,24 +17,7 @@ And finally, the final prediction model has been integrated into a web applicati
 <img src="https://github.com/JhingleDiff/Prediction-of-used-car-prices-in-Morocco-using-machine-learning/blob/main/GHImgs/Meth.PNG" alt="Methodology">
 </center>
 
-## 1. Data collection
-
-## 2. Data preparation
-### 2.1 Data cleaning
-### 2.2 Exploratory data analysis (EDA)
-### 2.3 Splitting the data
-### 2.4 Encoding
-### 2.5 Feature Scaling
-  
-## 3. Model development (using PyCaret)
-### 3.1 Model building
-### 3.2 Model Evaluation
-### 3.3 Model Optimization
-### 3.4 Model Interpretability
-
-## 4. Deploying the model (using Streamlit and Docker)
-### 4.1 Web application development
-### 4.2 Web application Deployment
+## Deploying the model (using Streamlit and Docker)
 
 <center>
 <img src="https://github.com/JhingleDiff/Prediction-of-used-car-prices-in-Morocco-using-machine-learning/blob/main/GHImgs/meth_dev.png" alt="Methodology">
