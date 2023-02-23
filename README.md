@@ -32,4 +32,6 @@ And finally, the final prediction model has been integrated into a web applicati
 
 # Web application description
 
+<img src="https://github.com/JhingleDiff/Prediction-of-used-car-prices-in-Morocco-using-machine-learning/blob/main/Imgs/meth_dev.png" alt="Methodology of Devl">
+
 # Graphic interfaces of the web application
