@@ -13,10 +13,6 @@ And finally, the final prediction model has been integrated into a web applicati
 
 # Methodology :
 
-<center>
-<img src="https://github.com/JhingleDiff/Prediction-of-used-car-prices-in-Morocco-using-machine-learning/blob/main/Imgs/meth_dev.png" alt="Methodology">
-</center>
-
 ## 1. Data collection
 
 ## 2. Data preparation
@@ -34,7 +30,10 @@ And finally, the final prediction model has been integrated into a web applicati
 
 ## 4. Deploying the model (using Streamlit and Docker)
 
-  
+<center>
+<img src="https://github.com/JhingleDiff/Prediction-of-used-car-prices-in-Morocco-using-machine-learning/blob/main/Imgs/meth_dev.png" alt="Methodology">
+</center>
+
 # Graphic interfaces of the web application
 
 <center>
