@@ -20,7 +20,7 @@ And finally, the final prediction model has been integrated into a web applicati
 ## Deploying the model (using Streamlit and Docker)
 
 <center>
-<img src="https://github.com/JhingleDiff/Prediction-of-used-car-prices-in-Morocco-using-machine-learning/blob/main/GHImgs/meth_dev.png" alt="Methodology">
+<img src="https://github.com/JhingleDiff/Prediction-of-used-car-prices-in-Morocco-using-machine-learning/blob/main/GHImgs/meth_dev.PNG" alt="Methodology">
 </center>
 
 # Graphic interfaces of the web application
